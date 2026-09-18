@@ -1,0 +1,4 @@
+com\sece\student_management\repository\StudentRepository.class
+com\sece\student_management\controller\StudentController.class
+com\sece\student_management\StudentManagementApplication.class
+com\sece\student_management\entity\Student.class
